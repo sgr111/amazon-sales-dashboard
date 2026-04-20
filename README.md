@@ -17,7 +17,7 @@ Power BI (Interactive Dashboard + DAX Measures)
 
 ## 📊 Dashboard Preview
 
-![Amazon Sales Dashboard](amazon_dasboard.png)
+![Amazon Sales Dashboard](amazon_dashboard.png)
 
 ---
 
