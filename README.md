@@ -407,7 +407,7 @@ amazon-sales-analysis/
 ## 👤 Author
 
 **Sourabh Sagar**
-[GitHub Profile](https://github.com/01sourabhsagar)
+[GitHub Profile](https://github.com/sgr111)
 
 ---
 
